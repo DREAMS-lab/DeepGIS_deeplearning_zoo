@@ -1,4 +1,4 @@
-# DeepGIS_deeplearning_zoo
+# DeepGIS Deep Learning Models, Dataset and Notebooks
 
 This repository contains a collection of deep learning notebooks for training image annotations from DeepGIS.
 
